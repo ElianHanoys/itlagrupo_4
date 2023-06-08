@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Infrastructure\\itlagrupo_4.Infrastructure.csproj": {}
+    "/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Infrastructure/itlagrupo_4.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Infrastructure\\itlagrupo_4.Infrastructure.csproj": {
+    "/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Domain/itlagrupo_4.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Infrastructure\\itlagrupo_4.Infrastructure.csproj",
-        "projectName": "itlagrupo_4.Infrastructure",
-        "projectPath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Infrastructure\\itlagrupo_4.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\cocom\\.nuget\\packages\\",
-        "outputPath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Infrastructure\\obj\\",
+        "projectUniqueName": "/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Domain/itlagrupo_4.Domain.csproj",
+        "projectName": "itlagrupo_4.Domain",
+        "projectPath": "/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Domain/itlagrupo_4.Domain.csproj",
+        "packagesPath": "/Users/oriontekdesign/.nuget/packages/",
+        "outputPath": "/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cocom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/oriontekdesign/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,70 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Infrastructure/itlagrupo_4.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Infrastructure/itlagrupo_4.Infrastructure.csproj",
+        "projectName": "itlagrupo_4.Infrastructure",
+        "projectPath": "/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Infrastructure/itlagrupo_4.Infrastructure.csproj",
+        "packagesPath": "/Users/oriontekdesign/.nuget/packages/",
+        "outputPath": "/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oriontekdesign/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Domain/itlagrupo_4.Domain.csproj": {
+                "projectPath": "/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Domain/itlagrupo_4.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }
