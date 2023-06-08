@@ -1,0 +1,10 @@
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Application\bin\Debug\netstandard2.1\itlagrupo_4.Application.deps.json
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Application\bin\Debug\netstandard2.1\itlagrupo_4.Application.dll
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Application\bin\Debug\netstandard2.1\itlagrupo_4.Application.pdb
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Application\obj\Debug\netstandard2.1\itlagrupo_4.Application.csproj.AssemblyReference.cache
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Application\obj\Debug\netstandard2.1\itlagrupo_4.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Application\obj\Debug\netstandard2.1\itlagrupo_4.Application.AssemblyInfoInputs.cache
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Application\obj\Debug\netstandard2.1\itlagrupo_4.Application.AssemblyInfo.cs
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Application\obj\Debug\netstandard2.1\itlagrupo_4.Application.csproj.CoreCompileInputs.cache
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Application\obj\Debug\netstandard2.1\itlagrupo_4.Application.dll
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Application\obj\Debug\netstandard2.1\itlagrupo_4.Application.pdb
