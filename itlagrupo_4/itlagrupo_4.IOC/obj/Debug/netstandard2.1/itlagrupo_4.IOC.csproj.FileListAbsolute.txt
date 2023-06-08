@@ -1,0 +1,10 @@
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.IOC\bin\Debug\netstandard2.1\itlagrupo_4.IOC.deps.json
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.IOC\bin\Debug\netstandard2.1\itlagrupo_4.IOC.dll
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.IOC\bin\Debug\netstandard2.1\itlagrupo_4.IOC.pdb
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.IOC\obj\Debug\netstandard2.1\itlagrupo_4.IOC.csproj.AssemblyReference.cache
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.IOC\obj\Debug\netstandard2.1\itlagrupo_4.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.IOC\obj\Debug\netstandard2.1\itlagrupo_4.IOC.AssemblyInfoInputs.cache
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.IOC\obj\Debug\netstandard2.1\itlagrupo_4.IOC.AssemblyInfo.cs
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.IOC\obj\Debug\netstandard2.1\itlagrupo_4.IOC.csproj.CoreCompileInputs.cache
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.IOC\obj\Debug\netstandard2.1\itlagrupo_4.IOC.dll
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4.IOC\obj\Debug\netstandard2.1\itlagrupo_4.IOC.pdb
