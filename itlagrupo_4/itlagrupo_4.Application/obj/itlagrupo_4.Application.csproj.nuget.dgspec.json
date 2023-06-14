@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Application\\itlagrupo_4.Application.csproj",
         "projectName": "itlagrupo_4.Application",
         "projectPath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Application\\itlagrupo_4.Application.csproj",
-        "packagesPath": "C:\\Users\\cocom\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cocom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

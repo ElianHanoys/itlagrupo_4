@@ -8,3 +8,13 @@ C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\it
 C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.csproj.CoreCompileInputs.cache
 C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.dll
 C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.pdb
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\bin\Debug\netstandard2.1\itlagrupo_4.Infrastructure.deps.json
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\bin\Debug\netstandard2.1\itlagrupo_4.Infrastructure.dll
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\bin\Debug\netstandard2.1\itlagrupo_4.Infrastructure.pdb
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.csproj.AssemblyReference.cache
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.AssemblyInfoInputs.cache
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.AssemblyInfo.cs
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.csproj.CoreCompileInputs.cache
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.dll
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.pdb

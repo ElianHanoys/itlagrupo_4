@@ -8,7 +8,7 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\cocom\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.IOC\\itlagrupo_4.IOC.csproj",
       "projectName": "itlagrupo_4.IOC",
       "projectPath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.IOC\\itlagrupo_4.IOC.csproj",
-      "packagesPath": "C:\\Users\\cocom\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.IOC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cocom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

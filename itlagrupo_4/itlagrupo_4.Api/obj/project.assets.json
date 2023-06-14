@@ -224,7 +224,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cocom\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -232,11 +232,11 @@
       "projectUniqueName": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Api\\itlagrupo_4.Api.csproj",
       "projectName": "itlagrupo_4.Api",
       "projectPath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Api\\itlagrupo_4.Api.csproj",
-      "packagesPath": "C:\\Users\\cocom\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cocom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

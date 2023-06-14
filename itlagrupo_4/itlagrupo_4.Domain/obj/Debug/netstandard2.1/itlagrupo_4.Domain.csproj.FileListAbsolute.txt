@@ -8,3 +8,10 @@ C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_
 C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.csproj.CoreCompileInputs.cache
 C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.dll
 C:\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.pdb
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.csproj.AssemblyReference.cache
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.AssemblyInfoInputs.cache
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.AssemblyInfo.cs
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.csproj.CoreCompileInputs.cache
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.dll
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.pdb
