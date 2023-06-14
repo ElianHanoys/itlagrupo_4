@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Api\\itlagrupo_4.Api.csproj": {}
+    "C:\\Users\\cocom\\OneDrive\\Escritorio\\ITLA\\itlagrupo4\\itlagrupo_4\\itlagrupo_4.Api\\itlagrupo_4.Api.csproj": {}
   },
   "projects": {
-    "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Api\\itlagrupo_4.Api.csproj": {
+    "C:\\Users\\cocom\\OneDrive\\Escritorio\\ITLA\\itlagrupo4\\itlagrupo_4\\itlagrupo_4.Api\\itlagrupo_4.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Api\\itlagrupo_4.Api.csproj",
+        "projectUniqueName": "C:\\Users\\cocom\\OneDrive\\Escritorio\\ITLA\\itlagrupo4\\itlagrupo_4\\itlagrupo_4.Api\\itlagrupo_4.Api.csproj",
         "projectName": "itlagrupo_4.Api",
-        "projectPath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Api\\itlagrupo_4.Api.csproj",
+        "projectPath": "C:\\Users\\cocom\\OneDrive\\Escritorio\\ITLA\\itlagrupo4\\itlagrupo_4\\itlagrupo_4.Api\\itlagrupo_4.Api.csproj",
         "packagesPath": "C:\\Users\\cocom\\.nuget\\packages\\",
-        "outputPath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Api\\obj\\",
+        "outputPath": "C:\\Users\\cocom\\OneDrive\\Escritorio\\ITLA\\itlagrupo4\\itlagrupo_4\\itlagrupo_4.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cocom\\AppData\\Roaming\\NuGet\\NuGet.Config",

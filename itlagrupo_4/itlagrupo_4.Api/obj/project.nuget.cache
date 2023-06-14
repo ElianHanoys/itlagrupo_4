@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "slToUy+IyPSwj52NQvIJRCl+j1cX4UaLfjpChm6UwdkrMlQIGgAa8q0NhPQ8F677k86Ojxho4zxcfVnMHHr5sQ==",
+  "dgSpecHash": "Fp7ISCpg+jeHOCEmUkbCSqc0DPj4UdHX9YUkIbxQL3ryFkDsI2G6yxxmJdHkzu5gjJdNlIU51zrVf3WmpHIuKw==",
   "success": true,
-  "projectFilePath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Api\\itlagrupo_4.Api.csproj",
+  "projectFilePath": "C:\\Users\\cocom\\OneDrive\\Escritorio\\ITLA\\itlagrupo4\\itlagrupo_4\\itlagrupo_4.Api\\itlagrupo_4.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cocom\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\cocom\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

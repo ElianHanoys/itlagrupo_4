@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Web\\itlagrupo_4.Web.csproj",
+      "projectUniqueName": "C:\\Users\\cocom\\OneDrive\\Escritorio\\ITLA\\itlagrupo4\\itlagrupo_4\\itlagrupo_4.Web\\itlagrupo_4.Web.csproj",
       "projectName": "itlagrupo_4.Web",
-      "projectPath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Web\\itlagrupo_4.Web.csproj",
+      "projectPath": "C:\\Users\\cocom\\OneDrive\\Escritorio\\ITLA\\itlagrupo4\\itlagrupo_4\\itlagrupo_4.Web\\itlagrupo_4.Web.csproj",
       "packagesPath": "C:\\Users\\cocom\\.nuget\\packages\\",
-      "outputPath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Web\\obj\\",
+      "outputPath": "C:\\Users\\cocom\\OneDrive\\Escritorio\\ITLA\\itlagrupo4\\itlagrupo_4\\itlagrupo_4.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cocom\\AppData\\Roaming\\NuGet\\NuGet.Config",
