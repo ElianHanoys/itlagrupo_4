@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\itlagrupo_4",
+    "\\itlagrupo_4\\itlagrupo_4.Domain",
+    "\\itlagrupo_4\\itlagrupo_4.Domain\\Core",
+    "\\itlagrupo_4\\itlagrupo_4.Domain\\Entities",
+    "\\itlagrupo_4\\itlagrupo_4.Infrastructure"
   ],
-  "SelectedNode": "\\itlagrupo_4.sln",
   "PreviewInSolutionExplorer": false
 }

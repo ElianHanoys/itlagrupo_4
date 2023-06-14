@@ -2,7 +2,6 @@
 
 public namespace BaseEntity
 {
-
 	public class BaseEntity
 	{
 		public BaseEntity()
