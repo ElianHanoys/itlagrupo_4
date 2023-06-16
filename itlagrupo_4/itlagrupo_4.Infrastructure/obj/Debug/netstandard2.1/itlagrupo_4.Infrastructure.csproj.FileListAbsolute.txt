@@ -18,3 +18,6 @@ C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netst
 C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.csproj.CoreCompileInputs.cache
 C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.dll
 C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.pdb
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\bin\Debug\netstandard2.1\itlagrupo_4.Domain.dll
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\bin\Debug\netstandard2.1\itlagrupo_4.Domain.pdb
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.csproj.CopyComplete

@@ -15,3 +15,6 @@ C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.
 C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.csproj.CoreCompileInputs.cache
 C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.dll
 C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.pdb
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\bin\Debug\netstandard2.1\itlagrupo_4.Domain.deps.json
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\bin\Debug\netstandard2.1\itlagrupo_4.Domain.dll
+C:\itlagrupo4\itlagrupo_4\itlagrupo_4\itlagrupo_4.Domain\bin\Debug\netstandard2.1\itlagrupo_4.Domain.pdb
