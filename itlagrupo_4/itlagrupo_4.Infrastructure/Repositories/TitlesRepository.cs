@@ -8,25 +8,27 @@ namespace itlagrupo_4.Infrastructure.Repositories
 	public class TitlesRepository: IRepositoryBase<Titles>
 	{
         public List<Titles> GetEntities()
-        {
+
+        {   // adaptacion a nuestro requerimiento
             List<Titles> titles = new List<Titles>();
             return new List<Titles>();
-            //throw new NotImplementedException();
         }
 
         public Titles GetEntityById(int Id)
-        {
-            throw new NotImplementedException();
+
+        {   // adaptacion a nuestro requerimiento
+            Titles title = null;
+            return title;
         }
 
         public void save(Titles entity)
         {
-            throw new NotImplementedException();
+            // Adaptacion a nuestro requerimiento
         }
 
         public void update(Titles entity)
         {
-            throw new NotImplementedException();
+            // Adaptacion a nuestro requerimiento
         }
     }
 
