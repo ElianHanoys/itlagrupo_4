@@ -9,6 +9,6 @@ namespace itlagrupo_4.Infrastructure.Interfaces
 {
     public interface IAuthorRepository : IRepositoryBase<Author>
     {
-        List<AuthorModel> GetAuthor(int  au_id);
+        List<AuthorModel> GetAuthor();
     }
 }
