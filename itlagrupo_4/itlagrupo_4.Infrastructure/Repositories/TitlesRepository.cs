@@ -9,7 +9,9 @@ namespace itlagrupo_4.Infrastructure.Repositories
 	{
         public List<Titles> GetEntities()
         {
-            throw new NotImplementedException();
+            List<Titles> titles = new List<Titles>();
+            return new List<Titles>();
+            //throw new NotImplementedException();
         }
 
         public Titles GetEntityById(int Id)
