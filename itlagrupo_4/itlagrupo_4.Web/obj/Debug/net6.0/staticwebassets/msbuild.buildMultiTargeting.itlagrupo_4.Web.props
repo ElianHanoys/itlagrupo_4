@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/itlagrupo_4.Web.props" />
+</Project>

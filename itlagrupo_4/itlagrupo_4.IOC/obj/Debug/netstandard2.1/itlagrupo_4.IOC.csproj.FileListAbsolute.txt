@@ -1,0 +1,10 @@
+/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.IOC/bin/Debug/netstandard2.1/itlagrupo_4.IOC.deps.json
+/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.IOC/bin/Debug/netstandard2.1/itlagrupo_4.IOC.dll
+/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.IOC/bin/Debug/netstandard2.1/itlagrupo_4.IOC.pdb
+/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.IOC/obj/Debug/netstandard2.1/itlagrupo_4.IOC.csproj.AssemblyReference.cache
+/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.IOC/obj/Debug/netstandard2.1/itlagrupo_4.IOC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.IOC/obj/Debug/netstandard2.1/itlagrupo_4.IOC.AssemblyInfoInputs.cache
+/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.IOC/obj/Debug/netstandard2.1/itlagrupo_4.IOC.AssemblyInfo.cs
+/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.IOC/obj/Debug/netstandard2.1/itlagrupo_4.IOC.csproj.CoreCompileInputs.cache
+/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.IOC/obj/Debug/netstandard2.1/itlagrupo_4.IOC.dll
+/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.IOC/obj/Debug/netstandard2.1/itlagrupo_4.IOC.pdb
