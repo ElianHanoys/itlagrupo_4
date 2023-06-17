@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {}
+    ".NETStandard,Version=v2.1": {
+      "itlagrupo_4.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/itlagrupo_4.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/itlagrupo_4.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "itlagrupo_4.Domain/1.0.0": {
+      "type": "project",
+      "path": "../itlagrupo_4.Domain/itlagrupo_4.Domain.csproj",
+      "msbuildProject": "../itlagrupo_4.Domain/itlagrupo_4.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": []
+    ".NETStandard,Version=v2.1": [
+      "itlagrupo_4.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\cocom\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\cocom\\OneDrive\\Escritorio\\ITLA\\itlagrupo4\\itlagrupo_4\\itlagrupo_4.Domain\\itlagrupo_4.Domain.csproj": {
+              "projectPath": "C:\\Users\\cocom\\OneDrive\\Escritorio\\ITLA\\itlagrupo4\\itlagrupo_4\\itlagrupo_4.Domain\\itlagrupo_4.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
