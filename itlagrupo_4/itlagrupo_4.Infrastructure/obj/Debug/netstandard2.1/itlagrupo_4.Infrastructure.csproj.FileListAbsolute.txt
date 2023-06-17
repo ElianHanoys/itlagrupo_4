@@ -1,0 +1,13 @@
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\bin\Debug\netstandard2.1\itlagrupo_4.Infrastructure.deps.json
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\bin\Debug\netstandard2.1\itlagrupo_4.Infrastructure.dll
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\bin\Debug\netstandard2.1\itlagrupo_4.Infrastructure.pdb
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\bin\Debug\netstandard2.1\itlagrupo_4.Domain.dll
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\bin\Debug\netstandard2.1\itlagrupo_4.Domain.pdb
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.AssemblyInfo.cs
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.csproj.CopyComplete
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.dll
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Infrastructure\obj\Debug\netstandard2.1\itlagrupo_4.Infrastructure.pdb

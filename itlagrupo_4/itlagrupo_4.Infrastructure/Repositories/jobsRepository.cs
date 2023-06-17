@@ -1,19 +1,18 @@
 ﻿using itlagrupo_4.Domain.Entities;
 using itlagrupo_4.Domain.Entities.Repository;
 using itlagrupo_4.Infrastructure.Core;
+using itlagrupo_4.Infrastructure.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace itlagrupo_4.Infrastructure.Repositories
 {
-    public class jobsRepository : BaseRepository <jobs>, IRepositoryBase<jobs>
+    public class jobsRepository : BaseRepository<jobs>, IjobsRepository
     {
-        public override List<jobs> GetEntities()
+      public List<jobs> GetJobsBypublishers(int pub_id)
         {
-            // adaptacion a nuestro requerimiento
-
-            return new List<jobs>();
+            throw new System.NotImplementedException();
         }
 
     }

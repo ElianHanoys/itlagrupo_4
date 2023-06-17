@@ -1,0 +1,10 @@
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\bin\Debug\netstandard2.1\itlagrupo_4.Domain.deps.json
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\bin\Debug\netstandard2.1\itlagrupo_4.Domain.dll
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\bin\Debug\netstandard2.1\itlagrupo_4.Domain.pdb
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.csproj.AssemblyReference.cache
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.AssemblyInfoInputs.cache
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.AssemblyInfo.cs
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.dll
+C:\Users\cocom\OneDrive\Escritorio\ITLA\itlagrupo4\itlagrupo_4\itlagrupo_4.Domain\obj\Debug\netstandard2.1\itlagrupo_4.Domain.pdb
