@@ -1,8 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using itlagrupo_4.Domain.Entities;
-using itlagrupo_4.Domain.Repository;
+﻿using itlagrupo_4.Domain.Repository;
+using itlagrupo_4.Infrastructure.Context;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
 
 namespace itlagrupo_4.Infrastructure.Core
 {
@@ -12,29 +14,67 @@ namespace itlagrupo_4.Infrastructure.Core
 		{
 		}
 
-        public List<TEntity> GetEntities()
+        private readonly PubsContext context;
+        private readonly DbSet<TEntity> myDbSet;
+
+        public BaseRepository(PubsContext context)
         {
-            // adaptacion a nuestro requerimiento
-            List<Titles> titles = new List<Titles>();
-            return new List<Titles>();
+            this.context = context;
+            this.myDbSet = this.context.Set<TEntity>();
         }
 
-        public TEntity GetEntityById(int Id)
+        public virtual bool Exists(Expression<Func<TEntity, bool>> filter)
         {
-            // adaptacion a nuestro requerimiento
-            Titles title = null;
-            return title;
+            return this.myDbSet.Any(filter);
         }
 
-        public void save(TEntity entity)
+        public virtual List<TEntity> GetEntities()
         {
-            // Adaptacion a nuestro requerimiento
+            return this.myDbSet.ToList();
         }
 
-        public void update(TEntity entity)
+        public virtual TEntity GetEntity(int titlesID)
         {
-            // Adaptacion a nuestro requerimiento
+            return this.myDbSet.Find(titlesID);
         }
+
+        public virtual void Add(TEntity entity)
+        {
+            this.myDbSet.Add(entity);
+        }
+
+        public virtual void Added(TEntity[] entities)
+        {
+            this.myDbSet.AddRange(entities);
+        }
+
+        public virtual void SaveChanges()
+        {
+            this.context.SaveChanges();
+        }
+
+        public virtual void Remove(TEntity entity)
+        {
+            this.myDbSet.Remove(entity);
+        }
+
+        public virtual void Remove(TEntity[] entities)
+        {
+            this.myDbSet.RemoveRange(entities);
+        }
+
+        public virtual void Update(TEntity entity)
+        {
+            this.myDbSet.Update(entity);
+        }
+
+        public virtual void Update(TEntity[] entities)
+        {
+            this.myDbSet.UpdateRange(entities);
+        }
+
     }
-}
+
+        
+    }
 
