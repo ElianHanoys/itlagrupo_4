@@ -7,7 +7,8 @@ namespace itlagrupo_4.Infrastructure.Interfaces
 {
 	public interface ITitlesRepository : IRepositoryBase<Titles>
 	{
-		List<Titles> GetTitlesByDepartment(int titlesID);
+		List<Titles> GetTitlesById(int titlesID);
+
 	}
 }
 

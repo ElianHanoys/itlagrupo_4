@@ -4,6 +4,7 @@ using System.Linq;
 using itlagrupo_4.Domain.Entities;
 using itlagrupo_4.Domain.Repository;
 using itlagrupo_4.Infrastructure.Core;
+using itlagrupo_4.Infrastructure.Context;
 using itlagrupo_4.Infrastructure.Models;
 using Microsoft.Extensions.Logging;
 
@@ -13,9 +14,9 @@ namespace itlagrupo_4.Infrastructure.Repositories
     {
 
         private readonly ILogger<TitlesRepository> logger;
-        private readonly PubsContext context;
+        private readonly itlagrupo_4Context context;
 
-        public TitlesRepository(ILogger<TitlesRepository> logger, PubsContext context) : base(context)
+        public TitlesRepository(ILogger<TitlesRepository> logger, itlagrupo_4Context context) : base(context)
         {
             this.logger = logger;
             this.context = context;
@@ -84,7 +85,6 @@ namespace itlagrupo_4.Infrastructure.Repositories
 
                 if (titleToRemove is null)
                     throw new Exception("El título no existe.");
-
                 titleToRemove.titles = entity.titles;
 
                 base.Update(titleToRemove);
@@ -133,7 +133,7 @@ namespace itlagrupo_4.Infrastructure.Repositories
                 this.logger.LogInformation($"Pase por aqui: {titlesID}");
 
                 titles = (from tit in base.GetEntities()
-                          join de in context.Titles.ToList() on tit.titlesID equals de.titlesID
+                          join de in context.titles.ToList() on tit.titlesID equals de.titlesID
                           where tit.titlesID == titlesID
                            && !tit.Deleted
                           select new TitlesModel()

@@ -33,20 +33,26 @@ namespace itlagrupo_4.Api.Controllers
             return Ok(titles);
         }
 
-        [HttpGet("GetTitles")]
+        [HttpGet("GetTitlesById")]
         public IActionResult Get([FromQuery] int id)
         {
-            var title = new TitlesModel();
+            TitlesModel title = null;
 
             try
             {
-                title = titlesRepository.GetEntities(id);
+                var entity = titlesRepository.GetEntityById(id);
+                title = new TitlesModel
+                {
+                    titlesID = entity.titlesID,
+                    titles = entity.titles,
+                };
             }
             catch (Exception ex)
             {
                 var result = new { Success = false, ErrorMessage = ex.Message };
                 return BadRequest(result);
             }
+
             return Ok(title);
         }
 

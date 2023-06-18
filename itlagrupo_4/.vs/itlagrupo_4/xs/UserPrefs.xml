@@ -1,16 +1,52 @@
 ﻿<Properties StartupConfiguration="{20C11145-0711-4E18-B893-EBEF57D805C8}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.itlagrupo__4.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="itlagrupo_4.Api/Controllers/TitlesController.cs">
+    <Files>
+      <File FileName="itlagrupo_4.Infrastructure/Interfaces/ITitlesRepository.cs" Line="8" Column="36" />
+      <File FileName="itlagrupo_4.Infrastructure/Repositories/TitlesRepository.cs" Line="24" Column="40" />
+      <File FileName="itlagrupo_4.Api/Controllers/TitlesController.cs" Line="46" Column="14" />
+      <File FileName="itlagrupo_4.Api/Controllers/TitlesControllersController.cs" Line="1" Column="1" />
+      <File FileName="itlagrupo_4.Domain/Entities/Titles.cs" Line="6" Column="3" NotebookId="1" />
+      <File FileName="itlagrupo_4.Infrastructure/Models/TitlesModel.cs" Line="7" Column="28" NotebookId="1" />
+      <File FileName="itlagrupo_4.Infrastructure/Core/BaseRepository.cs" Line="10" Column="2" NotebookId="1" />
+      <File FileName="itlagrupo_4.Domain/Core/BaseEntity.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="itlagrupo_4.Domain/Repository/IRepositoryBase.cs" Line="21" Column="1" NotebookId="1" />
+      <File FileName="itlagrupo_4.Web/Program.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="itlagrupo_4" expanded="True" />
+          <Node name="itlagrupo_4" expanded="True">
+            <Node name="itlagrupo_4.Api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TitlesControllersController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="itlagrupo_4.Domain" expanded="True">
+              <Node name="Core" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="itlagrupo_4.Infrastructure" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Core" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="itlagrupo_4.Web" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.itlagrupo__4.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Infrastructure/Repositories/TitlesRepository.cs" relfile="itlagrupo_4.Infrastructure/Repositories/TitlesRepository.cs" line="11" column="1" />
+      <Breakpoint file="/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Api/Controllers/TitlesController.cs" relfile="itlagrupo_4.Api/Controllers/TitlesController.cs" line="32" column="1" />
+      <Breakpoint file="/Users/oriontekdesign/Desktop/itlagrupo_4/itlagrupo_4/itlagrupo_4.Api/Controllers/TitlesController.cs" relfile="itlagrupo_4.Api/Controllers/TitlesController.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

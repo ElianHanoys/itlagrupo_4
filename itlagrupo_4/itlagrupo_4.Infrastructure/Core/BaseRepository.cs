@@ -10,7 +10,7 @@ namespace itlagrupo_4.Infrastructure.Core
 {
 	public abstract class BaseRepository<TEntity> : IRepositoryBase<TEntity> where TEntity : class
 	{
-		public BaseRepository()
+		public BaseRepository(itlagrupo_4Context context)
 		{
 		}
 
