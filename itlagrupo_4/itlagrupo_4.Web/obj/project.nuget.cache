@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1QydDIQ/tTa8Mw6E1eIXODqcHFUt9268SGtiCYRw0htyYcsKK5b3O8+13cv+QY1fpZxeEGsTPU1CiQeQcB90Zg==",
+  "dgSpecHash": "G01Wj+vCJH/0ZvQ2wXX6e+VnM3gOyEdC4cQsO0CG4F4L3CW5L8RJixkN0PBcFAG/JOGswAMftOXlXgXjo3HhUA==",
   "success": true,
   "projectFilePath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Web\\itlagrupo_4.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Andy1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Andy1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Andy1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Andy1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

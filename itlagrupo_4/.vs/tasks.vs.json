@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-itlagrupo_4",
+      "appliesTo": "itlagrupo_4.Domain/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-Employee",
+      "appliesTo": "itlagrupo_4.Domain/Entities/Employee.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-itlagrupo_4",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-itlagrupo_4",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
