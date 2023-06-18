@@ -29,7 +29,7 @@ namespace itlagrupo_4.Infrastructure.Repositories
 
         public override void Add(Author entity)
         {
-            if (this.Exists(aut => aut.au_id == entity.au_id))
+            if (this.Exists(aut => aut.au_lname == entity.au_lname))
                 throw new AuthorException("El author ya existe.");
 
             base.Add(entity);
@@ -99,7 +99,7 @@ namespace itlagrupo_4.Infrastructure.Repositories
                            {
                                au_id = aut.au_id,
                                au_lname = aut.au_lname,
-                               adress = aut.address
+                               address = aut.address
 
                            }).ToList();
 

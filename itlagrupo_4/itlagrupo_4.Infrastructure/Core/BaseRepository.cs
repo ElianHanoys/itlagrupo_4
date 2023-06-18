@@ -34,7 +34,7 @@ namespace itlagrupo_4.Infrastructure.Core
             return this.myDbSet.ToList();
         }
 
-        public virtual TEntity GetEntity(int au_id)
+        public virtual TEntity GetEntity(string au_id)
         {
             return this.myDbSet.Find(au_id);
         }
@@ -45,9 +45,18 @@ namespace itlagrupo_4.Infrastructure.Core
             this.myDbSet.Add(entity);
         }
 
-        public virtual void Added(TEntity[] entities)
+        public virtual void Add(TEntity[] entities)
         {
             this.myDbSet.AddRange(entities); 
+        }
+
+        public virtual void Update(TEntity entity)
+        {
+            this.myDbSet.Update(entity);
+        }
+        public virtual void Update(TEntity[] entities)
+        {
+            this.myDbSet.UpdateRange(entities);
         }
 
         public virtual void Remove(TEntity entity)
@@ -60,14 +69,7 @@ namespace itlagrupo_4.Infrastructure.Core
             this.myDbSet.RemoveRange(entities);
         }
 
-        public virtual void Update(TEntity entity)
-        {
-            this.myDbSet.Update(entity);
-        }
-        public virtual void Update(TEntity[] entities)
-        {
-            this.myDbSet.UpdateRange(entities);
-        }
+       
         public virtual void SaveChanges()
         {
             this.context.SaveChanges();

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CibsdeCj7lSzz/+bA7r0c7E8p2Ticv/ZpfhafFO7NoOhoEXpOTIfxi+HiQFQwlt9kYMxi4qMWpiMx5EibmEjKw==",
+  "dgSpecHash": "EY8iVaP7mtyf5+xWX1bMkxG0V4ZZslv1soQ8acfjvmgum68FaC688VkcwNtQrIUWvzwv+7mrj9DJSR5eze4Lzg==",
   "success": true,
   "projectFilePath": "C:\\itlagrupo4\\itlagrupo_4\\itlagrupo_4\\itlagrupo_4.Domain\\itlagrupo_4.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

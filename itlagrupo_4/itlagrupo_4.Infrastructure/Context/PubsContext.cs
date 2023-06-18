@@ -9,11 +9,12 @@ namespace itlagrupo_4.Infrastructure.Context
         {
             
         }
-        public PubsContext (DbContextOptions<PubsContext> options) : base(options)
+        public PubsContext(DbContextOptions<PubsContext> options) : base(options)
         {
         
         }
         public DbSet<Author> authors { get; set; }
-        
+
+      
     }
 }
